@@ -17,7 +17,7 @@ export default function CustInfo() {
 
   return (
     <div style={{ padding: "20px" }}>
-      <h2>Customer Information Data List Modified</h2>
+      <h2>Customer Information Data List</h2>
       <table border="1" cellPadding="10" cellSpacing="0">
         <thead>
           <tr>
